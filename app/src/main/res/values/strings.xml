@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BottomNavigation</string>
+    <string name="item_cart">Cart</string>
+    <string name="item_product">Product</string>
+    <string name="shop_string">Shop</string>
+    <string name="add_cart_text">Add to Cart</string>
+    <string name="call_vendor">Call Vendor</string>
+    <string name="remove_from_cart">Remove from cart</string>
+</resources>
