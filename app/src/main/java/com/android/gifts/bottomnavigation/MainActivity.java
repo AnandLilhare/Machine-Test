@@ -27,9 +27,8 @@ public class MainActivity extends AppCompatActivity implements Icommunication{
     CoordinatorLayout coordinatorLayout;
     private static final int RECORD_REQUEST_CODE = 101;
     //changing code for showing new changes for branch
-    int branchcode=0;
     //second branch code
-
+     // second class merged
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
