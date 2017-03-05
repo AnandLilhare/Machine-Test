@@ -28,7 +28,8 @@ public class MainActivity extends AppCompatActivity implements Icommunication{
     private static final int RECORD_REQUEST_CODE = 101;
     //changing code for showing new changes for branch
     int branchcode=0;
-
+    // thired branch code changes
+    // checking merging confilog during the ther merging a barach.
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
