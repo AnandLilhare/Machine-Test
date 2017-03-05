@@ -29,6 +29,9 @@ public class MainActivity extends AppCompatActivity implements Icommunication{
     //changing code for showing new changes for branch
     //second branch code
      // second class merged
+    int branchcode=0;
+    // thired branch code changes
+    // checking merging confilog during the ther merging a barach.
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
