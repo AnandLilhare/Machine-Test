@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity implements Icommunication{
     private static final int RECORD_REQUEST_CODE = 101;
     //changing code for showing new changes for branch
     int branchcode=0;
+    //second branch code
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
